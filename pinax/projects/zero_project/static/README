@@ -10,4 +10,4 @@ The convention for this directory is:
 This directory is accessed at /site_media/static/ in runserver when DEBUG
 is True. It is built with build_static for production environments.
 
-See http://pinaxproject.com/docs/dev/media.html for more information.
+See http://readthedocs.org/docs/pinax/en/latest/deployment.html#media-files for more information.
